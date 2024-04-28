@@ -1,1 +1,1 @@
-# djtalb.dytal.io
+# DYTAL
